@@ -1,4 +1,5 @@
 本项目是emby图标库，提供加速链接（本人也是小白，单纯因为好玩自用所搭建，无偿反馈无偿更新图标TG频道[@liuguanyi01](https://t.me/liuguanyi01)、群组[@i701maowo1](https://t.me/i701maowo1)",
+
 emby图标链接
 
 ```
