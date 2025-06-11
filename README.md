@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/5d25f236-67d4-4dd3-abff-b1d25a195eda)# i701-icon-collection
 本项目是一些图标库，提供加速链接（本人也是小白，单纯因为好玩自用所搭建，无偿反馈无偿更新图标TG频道@liuguanyi01、群组@i701maowo1）
 
 emby图标链接
