@@ -3,6 +3,13 @@
   "description": "自用emby图标,反馈无偿更新TG频道@liuguanyi01、群组@i701maowo1",
   "icons": [
     {"name": "i701", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/i701.png"},
+
+    {"name": "appletv_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/appletv_logo_抠图_白底.png"},
+    {"name": "disney+_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/disney+_logo_抠图_白底.png"},
+    {"name": "hob_max_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/hob_max_logo_抠图_白底.png"},
+    {"name": "hulu_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/hulu_logo_抠图_白底.png"},
+    {"name": "netflix_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/netflix_logo_抠图_白底.png"},
+    
     {"name": "猫001", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/猫001.png"},
     {"name": "食物-冰激凌1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/食物-冰激凌1.png"},
     {"name": "食物-番薯1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/食物-番薯1.png"},
