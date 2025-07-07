@@ -3,7 +3,7 @@
   "description": "自用app图标,反馈无偿更新TG频道@liuguanyi01、群组@i701maowo1",
   "icons": [
     {"name": "i701", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/i701.png"},
-    
+    {"name": "apple图标", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/apple图标.png"},
     {"name": "Apple", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Apple.png"},
     {"name": "Apple-AppStore1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Apple-AppStore1.png"},
     {"name": "Apple-Developer", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Apple-Developer.png"},
@@ -21,7 +21,7 @@
     {"name": "谷歌Gmail", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/谷歌Gmail.png"},
     {"name": "谷歌Google-Chrome", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/谷歌Google-Chrome.png"},
     {"name": "谷歌Google-Maps", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/谷歌Google-Maps.png"},
-    
+    {"name": "代理图标", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/代理图标.png"},
     {"name": "Shadowrocket小火箭", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Shadowrocket小火箭.png"},
     {"name": "Loon", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Loon.png"},
     {"name": "Clash-Mi", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Clash-Mi.png"},
@@ -29,7 +29,7 @@
     {"name": "Hiddify", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Hiddify.png"},
     {"name": "Karing", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Karing.png"},
     {"name": "Surge", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Surge.png"},
-    
+    {"name": "社交图标", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/社交图标.png"},
     {"name": "Telegram1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Telegram1.png"},
     {"name": "Telegram2", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Telegram2.png"},
     {"name": "Telegram3", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Telegram3.png"},
@@ -39,7 +39,7 @@
     {"name": "微信wechat1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/微信wechat1.png"},
     {"name": "QQ", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/QQ.png"},
     {"name": "QQ1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/QQ1.png"},
-    
+    {"name": "AIapp图标", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/AIapp图标.png"},
     {"name": "OpenAI-ChatGPT", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/OpenAI-ChatGPT.png"},
     {"name": "OpenAI-ChatGPT1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/OpenAI-ChatGPT1.png"},
     {"name": "OpenAI-ChatGPT2", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/OpenAI-ChatGPT2.png"},
@@ -49,7 +49,7 @@
     {"name": "Copilot2", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Copilot2.png"},
     {"name": "DeepSeek1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/DeepSeek1.png"},
     {"name": "DeepSeek2", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/DeepSeek2.png"},
-    
+    {"name": "影视图标", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/影视图标.png"},
     {"name": "AppleTV", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/AppleTV.png"},
     {"name": "Netflix", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Netflix.png"},
     {"name": "Netflix1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Netflix1.png"},
@@ -75,7 +75,7 @@
     {"name": "APTV1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/APTV1.png"},
     {"name": "Emby", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Emby.png"},
     {"name": "Emby1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Emby1.png"},
-    
+    {"name": "app图标", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/app图标.png"},
     {"name": "Spotify", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Spotify.png"},
     {"name": "Spotify1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Spotify1.png"},
     {"name": "LocalSend", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/LocalSend.png"},
@@ -85,13 +85,13 @@
     {"name": "支付宝", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/支付宝.png"},
     {"name": "知乎", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/知乎.png"},
     {"name": "移动", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/移动.png"}
-   
+    {"name": "透明图标", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/透明图标.png"}
     {"name": "appletv_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/appletv_logo_抠图_白底.png"},
     {"name": "disney+_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/disney+_logo_抠图_白底.png"},
     {"name": "hob_max_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/hob_max_logo_抠图_白底.png"},
     {"name": "hulu_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/hulu_logo_抠图_白底.png"},
     {"name": "netflix_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/netflix_logo_抠图_白底.png"},
-    
+    {"name": "国际图标", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/国际图标.png"},
     {"name": "Global", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/Global.png"},
     {"name": "链接-直连1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/链接-直连1.png"},
     {"name": "链接-直连2", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/app\/链接-直连2.png"},
