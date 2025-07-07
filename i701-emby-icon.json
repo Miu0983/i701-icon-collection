@@ -3,12 +3,13 @@
   "description": "自用emby图标,反馈无偿更新TG频道@liuguanyi01、群组@i701maowo1",
   "icons": [
     {"name": "i701", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/i701.png"},
-
+    {"name": "透明图标", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/透明图标.png"},
     {"name": "appletv_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/appletv_logo_抠图_白底.png"},
     {"name": "disney+_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/disney+_logo_抠图_白底.png"},
     {"name": "hob_max_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/hob_max_logo_抠图_白底.png"},
     {"name": "hulu_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/hulu_logo_抠图_白底.png"},
     {"name": "netflix_logo_抠图_白底", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/netflix_logo_抠图_白底.png"},
+    {"name": "小物件图标", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/小物件图标.png"},
     
     {"name": "猫001", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/猫001.png"},
     {"name": "食物-冰激凌1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/食物-冰激凌1.png"},
@@ -29,7 +30,7 @@
     {"name": "食物-薯条7", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/食物-薯条7.png"},
     {"name": "食物-甜甜圈1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/食物-甜甜圈1.png"},
 
-    {"name": "以下动漫", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/以下动漫.png"},
+    {"name": "动漫图标", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/动漫图标.png"},
     {"name": "动漫-伏黑惠", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/动漫-伏黑惠.png"},
     {"name": "动漫-男001", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/动漫-男001.png"},
     {"name": "动漫-男002", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/动漫-男002.png"},
@@ -48,7 +49,8 @@
     {"name": "动漫-女006", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/动漫-女006.png"},
     {"name": "动漫-女007", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/动漫-女007.png"},
     {"name": "动漫-小鬼", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/动漫-小鬼.png"},
-    {"name": "以下emby图标", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/yixia-emby-tubiao.png"},
+    
+    {"name": "emby图标", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/emby图标.png"},
     {"name": "Emby", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/Emby.png"},
     {"name": "Emby1", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/Emby1.png"},
     {"name": "Emby2", "url": "https:\/\/raw.githubusercontent.com\/Miu0983\/i701-icon-collection\/refs\/heads\/main\/icon\/emby\/Emby2.png"},
